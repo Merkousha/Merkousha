@@ -19,12 +19,15 @@
 </p>
 
 ---
-- 🔭 A Team player / Technical Facilitator • Consultant • Blogger • Python & .net Lover
+- 🔭 A Team player / Technical Facilitator • Tech & Stratup Blogger • Python & .net Lover
 - 💬 Ask me about team work and Python
 - 📫 Follow me on Twitter [@merkousha](https://twitter.com/intent/follow?screen_name=merkousha) and Linkedin [@merkousha](https://www.linkedin.com/in/merkousha/)
 ---
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=merkousha&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=merkousha&theme=dark&hide_border=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=merkousha&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=merkousha&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 <p align="center">
