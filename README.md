@@ -20,7 +20,7 @@
 
 ---
 - 🔭 A Team player / Technical Facilitator • Tech & Stratup Blogger • Python & .net Lover
-- 💬 Ask me about team work and Python
+- 💬 Ask me about team work ,.net and Python
 - 📫 Follow me on Twitter [@merkousha](https://twitter.com/intent/follow?screen_name=merkousha) and Linkedin [@merkousha](https://www.linkedin.com/in/merkousha/)
 ---
  <p align="center">
